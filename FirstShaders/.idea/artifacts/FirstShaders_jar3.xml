@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FirstShaders:jar3">
+    <output-path>$PROJECT_DIR$/out/artifacts/FirstShaders_jar3</output-path>
+    <root id="archive" name="FirstShaders.jar">
+      <element id="module-output" name="FirstShaders" />
+    </root>
+  </artifact>
+</component>
